@@ -9,13 +9,16 @@
     <StackPanel>
 
         <Image Source="Pictures\elephant.png" Height="300" Width="300" Margin="-500,0,0,0"/>
-        <TextBlock Text="Биг Слонг" FontSize="30" Height="40" Width="160" Margin="-500,0,0,0" FontWeight="Bold"/>
+        <TextBlock Text="Биг Слонг" FontSize="30" Height="40" Width="150" Margin="-500,0,0,0" FontWeight="Bold"/>
 
         <Image Source="Pictures\giraffe.png" Height="300" Width="300" Margin="-100,-350,0,0"/>
         <TextBlock Text="Жираф" FontSize="30" Height="40" Width="120" Margin="-100,-40,0,0" FontWeight="Bold"/>
 
         <Image Source="Pictures\tiger.png" Height="300" Width="300" Margin="300,-350,0,0"/>
         <TextBlock Text="Тигр" FontSize="30" Height="40" Width="75" Margin="300,-40,0,0" FontWeight="Bold"/>
+        
+        <Image Source="Pictures\cat.png" Height="200" Width="200" Margin="550,-270,0,0"/>
+        <TextBlock Text="Кися" FontSize="30" Height="40" Width="75" Margin="550,-40,0,0" FontWeight="Bold"/>
 
     </StackPanel>
 </Window>
